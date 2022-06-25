@@ -12,15 +12,15 @@
 
 # Изображение для тестирования фильтра:
 
-![test_img](https://github.com/nvnovitskiy/high-performance-computing/blob/main/Bilateral%20Filtering/test_img.png)
+![test_img](https://github.com/witssaa/2021-HPC/blob/main/Bilateral%20Filtering/images/test_img.png)
 
 # Результат обработки изображения фильтром на CPU:
 
-![cpu_image](https://github.com/nvnovitskiy/high-performance-computing/blob/main/Bilateral%20Filtering/result_cpu.bmp)
+![cpu_image](https://github.com/witssaa/2021-HPC/blob/main/Bilateral%20Filtering/images/result_cpu.bmp)
 
 # Результат обработки изображения филтром на GPU:
 
-![cpu_image](https://github.com/nvnovitskiy/high-performance-computing/blob/main/Bilateral%20Filtering/result_gpu.bmp)
+![cpu_image](https://github.com/witssaa/2021-HPC/blob/main/Bilateral%20Filtering/images/result_gpu.bmp)
 
 # Затраченное время на обработку:
 |    |   Время на GPU |   Время на CPU |   CPU/GPU |
