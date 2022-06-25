@@ -19,7 +19,7 @@ The following method could be used to implement the median filter:
 
 Фотография, размерность любая, но для тестирования было выбрано три одинаковых фотографии разной размерности (256x256, 512x512, 1024x1024):
 
-![test_image](https://github.com/nvnovitskiy/high-performance-computing/blob/main/Salt%20and%20Pepper/1024.bmp)
+![test_image](https://github.com/witssaa/2021-HPC/blob/main/Salt%20and%20Pepper/images/1024.bmp)
 
 # Выходные данные:
 
@@ -27,11 +27,11 @@ The following method could be used to implement the median filter:
 
 * CPU:
 
-![cpu_output](https://github.com/nvnovitskiy/high-performance-computing/blob/main/Salt%20and%20Pepper/cpu_result/1024.bmp)
+![cpu_output](https://github.com/witssaa/2021-HPC/blob/main/Salt%20and%20Pepper/cpu_result/1024.bmp)
 
 * GPU:
 
-![gpu_output](https://github.com/nvnovitskiy/high-performance-computing/blob/main/Salt%20and%20Pepper/gpu_result/1024.bmp)
+![gpu_output](https://github.com/witssaa/2021-HPC/blob/main/Salt%20and%20Pepper/gpu_result/1024.bmp)
 
 # Реализация:
 
@@ -47,11 +47,11 @@ The following method could be used to implement the median filter:
 
 # График времени работы функций на CPU/GPU:
 
-![graphix](https://github.com/nvnovitskiy/high-performance-computing/blob/main/Salt%20and%20Pepper/gpu_cpu.png)
+![graphix](https://github.com/witssaa/2021-HPC/blob/main/Salt%20and%20Pepper/images/gpu_cpu.png)
 
 # Speed Up:
 
-![speed_up](https://github.com/nvnovitskiy/high-performance-computing/blob/main/Salt%20and%20Pepper/speed_up.png)
+![speed_up](https://github.com/witssaa/2021-HPC/blob/main/Salt%20and%20Pepper/images/speed_up.png)
 
 # Вывод: 
 
