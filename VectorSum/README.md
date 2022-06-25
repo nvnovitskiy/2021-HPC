@@ -1,6 +1,6 @@
 # Суммирование векторов на CPU/GPU
 
-*Работа выполнялась в Google Colaboratory 
+*Работа выполнялась в Google Colaboratory*
 
 Результаты вычислений на CPU/GPU
 |    |        GPU |         CPU |
