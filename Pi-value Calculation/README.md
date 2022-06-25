@@ -64,4 +64,4 @@ The following method could be used to implement Monte-Carlo algorithm:
 
 # График работы функций на CPU & GPU:
 
-![image](https://github.com/nvnovitskiy/high-performance-computing/blob/main/Pi-value%20Calculation/pi_calc_gpu_cpu.png)
+![image](https://github.com/witssaa/2021-HPC/tree/main/Pi-value%20Calculation/images/pi_calc_gpu_cpu.png)
