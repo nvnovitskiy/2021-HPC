@@ -4,11 +4,11 @@
 
 # Spectrogram with NVIDIA Dali:
 
-![nvidia_dali](https://github.com/witssaa/2021-HPC/tree/main/Spectrogram/images/Nvidia_Dali_Spectrogram.png)
+![nvidia_dali](https://github.com/witssaa/2021-HPC/blob/main/Spectrogram/images/Nvidia_Dali_Spectrogram.png)
 
 # Spectrogram with Librosa:
 
-![lebrosa](https://github.com/witssaa/2021-HPC/tree/main/Spectrogram/images/Librosa_Spectrogram.png)
+![lebrosa](https://github.com/witssaa/2021-HPC/blob/main/Spectrogram/images/Librosa_Spectrogram.png)
 
 # Результаты работы двух библиотек:
 
