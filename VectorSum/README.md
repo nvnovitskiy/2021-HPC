@@ -14,6 +14,6 @@
 
 График работы функций на GPU & CPU:
 
-![result](https://github.com/nvnovitskiy/high-performance-computing/blob/main/VectorSum/output.png)
+![result](https://github.com/witssaa/2021-HPC/tree/main/VectorSum/images/output.png)
 
 По полученным результатам видно, что функция на CPU (с использованием пакета Numpy) работает по-быстрее, чем функция, которая работает на GPU, причина заключается в том, что происходит копировние вектора с CPU в GPU и обратно.
